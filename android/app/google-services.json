@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "554406563169",
+    "project_id": "monviemanic",
+    "storage_bucket": "monviemanic.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554406563169:android:39296a940d9198d20b4920",
+        "android_client_info": {
+          "package_name": "com.example.movie_manic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSP7Ajy7_pMIblT2S6CGoJyoP6AbMjSg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
