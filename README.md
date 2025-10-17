@@ -5,6 +5,8 @@
  • Discover movies by genre using TMDb API
  • View movie details, ratings, and trailers
  • Contact the developers via the built-in Contact Us page
+
+ 
  Features
  • Firebase Integration (Auth, Core, .env for keys)
  • Movie Database (browse by genre, ratings, trailers)
@@ -17,6 +19,8 @@
  • Firebase (Auth, Core)
  • TMDb API
  • flutter_dotenv
+
+ 
  Project Structure
  • main.dart - Entry point
  • firebase_options.dart - Firebase config
@@ -32,8 +36,10 @@
  • Update pubspec.yaml to include:
  • assets/: for images and banners
  • assets/.env: for environment variables
+
+ 
  Getting Started
- • Clone repo: git clone https://github.com/yourusername/movie_maniac.git
+ • Clone repo: git clone https://github.com/Maisam5512/Movei_Manic
  • Install deps: flutter pub get
  • Configure Firebase: flutterfire configure
  • Run app: flutter run -d android / ios / chrome
