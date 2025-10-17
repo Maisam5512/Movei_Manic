@@ -1,4 +1,5 @@
  MovieManiac
+ 
  MovieManiac is a Flutter-based movie browsing app that allows users to:
  • Sign in / register with Firebase Authentication
  • Discover movies by genre using TMDb API
@@ -9,6 +10,8 @@
  • Movie Database (browse by genre, ratings, trailers)
  • UI (modern design, splash screen, custom fonts)
  • Contact Page (form + additional contact details)
+ 
+ 
  Tech Stack
  • Flutter (Dart)
  • Firebase (Auth, Core)
@@ -22,6 +25,8 @@
  • TrailerPage.dart - Trailers
  • ContactUsPage.dart - Contact form
  • assets/.env - Environment variables
+
+ 
  Environment Setup
 • All sensitive API keys are stored inside assets/.env
  • Update pubspec.yaml to include:
@@ -32,6 +37,8 @@
  • Install deps: flutter pub get
  • Configure Firebase: flutterfire configure
  • Run app: flutter run -d android / ios / chrome
+
+ 
  Notes
  • Restrict Firebase API keys
  • Use TMDb API key for read-only requests
